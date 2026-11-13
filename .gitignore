@@ -1,0 +1,6 @@
+data/*.sqlite3
+data/*.db
+data/*.db-wal
+data/*.db-shm
+backups/
+__pycache__/
