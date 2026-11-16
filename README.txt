@@ -1,10 +1,6 @@
 PATIENT DATABASE — LOCAL PC EDITION
 ===================================
 
-This folder is a separate copy of the CareLedger patient registry. It stores
-records in a SQLite database file on this PC instead of browser local storage.
-The existing C:\project\patient registry.html file is separate and is not
-changed by this copy.
 
 START THE APP
 -------------
